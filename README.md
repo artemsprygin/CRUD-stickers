@@ -1,3 +1,3 @@
 # CRUD-stickers
-CRUD API
-CRUD NodeJS Express PSQL
+API
+NodeJS Express PSQL
